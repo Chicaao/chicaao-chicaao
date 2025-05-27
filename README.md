@@ -7,7 +7,6 @@ Bem-vindo(a) ao meu perfil do GitHub! Estou começando a me aventurar por esse u
 ### 💻 Tecnologias e Ferramentas que eu uso:
 
 * **Linguagens:** Python, JavaScript
-* **Frameworks/Bibliotecas:** Django, Flask, React, Pandas, NumPy, [Outros que você domina]
 * **Bancos de Dados:** BigQuery
 * **Ferramentas:** Git, VS Code
 
@@ -36,5 +35,5 @@ Bem-vindo(a) ao meu perfil do GitHub! Estou começando a me aventurar por esse u
 
 ### 📈 Estatísticas do GitHub:
 
-[![Chicaao](https://github-readme-stats.vercel.app/api?username=SEU-NOME-DE-USUARIO&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[!Chicaao[(https://github-readme-stats.vercel.app/api?username=SEU-NOME-DE-USUARIO&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-NOME-DE-USUARIO&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
